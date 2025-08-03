@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "ResourceServer.Controllers.DemoController",
+    "Method": "GetProtectedData",
+    "RelativePath": "api/Demo/protected-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ResourceServer.Controllers.DemoController",
+    "Method": "GetPublicData",
+    "RelativePath": "api/Demo/public-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
